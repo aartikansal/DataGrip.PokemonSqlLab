@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4aa5d4c0-0199-4f64-bcbe-e08e158afe2c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="false" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="pokemon: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="d0fdd1ec-115d-4022-b2ea-ce8ee5b8df9c" />
+    </checked>
+  </component>
+  <component name="ProjectId" id="1ZGgfVKtOkf4FgCJbfvcPSK5BUF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@43275475" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@51bb1ae" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@36e87103" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@360b9217" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@5cd6f1fb" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="51" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584576368154">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="240" y="51" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.724@0.23.1280.724" timestamp="1584471209156" />
+    <state x="240" y="51" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.726@0.23.1280.726" timestamp="1584576368154" />
+    <state x="407" y="75" key="ExecutionTargetDialog" timestamp="1584581822768">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="407" y="75" key="ExecutionTargetDialog/0.23.1280.726@0.23.1280.726" timestamp="1584581822768" />
+    <state width="846" height="179" key="GridCell.Tab.0.bottom" timestamp="1584584156335">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="846" height="179" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1584584156335" />
+    <state width="846" height="179" key="GridCell.Tab.0.center" timestamp="1584584156334">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="846" height="179" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1584584156334" />
+    <state width="846" height="179" key="GridCell.Tab.0.left" timestamp="1584584156333">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="846" height="179" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1584584156333" />
+    <state width="846" height="179" key="GridCell.Tab.0.right" timestamp="1584584156335">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="846" height="179" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1584584156335" />
+    <state x="502" y="156" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1584576526230">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="502" y="156" key="com.intellij.database.view.ui.DbObjectDialog/0.23.1280.726@0.23.1280.726" timestamp="1584576526230" />
+    <state x="294" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1584578438024">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="294" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.724@0.23.1280.724" timestamp="1584576109015" />
+    <state x="294" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.726@0.23.1280.726" timestamp="1584578438024" />
+    <state x="294" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.727@0.23.1280.727" timestamp="1584577283443" />
+  </component>
+</project>
