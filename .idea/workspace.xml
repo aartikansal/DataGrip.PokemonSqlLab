@@ -61,27 +61,17 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@43275475" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@33cde6e6" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@51bb1ae" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@1dcb7416" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@36e87103" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@360b9217" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@5cd6f1fb" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@7321bc2f" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
             </expand>
             <select />
@@ -100,31 +90,40 @@
       <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state x="407" y="75" key="ExecutionTargetDialog/0.23.1280.726@0.23.1280.726" timestamp="1584581822768" />
-    <state width="846" height="179" key="GridCell.Tab.0.bottom" timestamp="1584584156335">
-      <screen x="0" y="23" width="1280" height="726" />
+    <state width="846" height="179" key="GridCell.Tab.0.bottom" timestamp="1584637168921">
+      <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state width="846" height="179" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1584584156335" />
-    <state width="846" height="179" key="GridCell.Tab.0.center" timestamp="1584584156334">
-      <screen x="0" y="23" width="1280" height="726" />
+    <state width="846" height="179" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1584637168921" />
+    <state width="846" height="179" key="GridCell.Tab.0.center" timestamp="1584637168920">
+      <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state width="846" height="179" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1584584156334" />
-    <state width="846" height="179" key="GridCell.Tab.0.left" timestamp="1584584156333">
-      <screen x="0" y="23" width="1280" height="726" />
+    <state width="846" height="179" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1584637168920" />
+    <state width="846" height="179" key="GridCell.Tab.0.left" timestamp="1584637168919">
+      <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state width="846" height="179" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1584584156333" />
-    <state width="846" height="179" key="GridCell.Tab.0.right" timestamp="1584584156335">
-      <screen x="0" y="23" width="1280" height="726" />
+    <state width="846" height="179" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1584637168919" />
+    <state width="846" height="179" key="GridCell.Tab.0.right" timestamp="1584637168920">
+      <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state width="846" height="179" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1584584156335" />
+    <state width="846" height="179" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1584637168920" />
+    <state x="369" y="78" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1584638092358">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="369" y="78" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.23.1280.727@0.23.1280.727" timestamp="1584638092358" />
     <state x="502" y="156" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1584576526230">
       <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state x="502" y="156" key="com.intellij.database.view.ui.DbObjectDialog/0.23.1280.726@0.23.1280.726" timestamp="1584576526230" />
-    <state x="294" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1584578438024">
-      <screen x="0" y="23" width="1280" height="726" />
+    <state x="294" y="221" key="com.intellij.ide.util.TipDialog" timestamp="1584636825084">
+      <screen x="0" y="23" width="1280" height="728" />
     </state>
     <state x="294" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.724@0.23.1280.724" timestamp="1584576109015" />
     <state x="294" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.726@0.23.1280.726" timestamp="1584578438024" />
     <state x="294" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.727@0.23.1280.727" timestamp="1584577283443" />
+    <state x="294" y="221" key="com.intellij.ide.util.TipDialog/0.23.1280.728@0.23.1280.728" timestamp="1584636825084" />
   </component>
 </project>
